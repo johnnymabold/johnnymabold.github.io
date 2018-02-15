@@ -1,7 +1,7 @@
 
 body{
     margin: 0 auto;
-    background-color:white;
+    background-color:gray;
 /*	--------- FONT FAMILY --------
  	following are some optional font families. Usually a family 
 	is safer to choose than a specific font, 
@@ -50,12 +50,14 @@ h1 {
     font-size:300%;
     padding: 0px;
     font-variant:small-caps;
+	color:red;
 }
 
 h2 {
     font-size:150%;
 /   margin: 24px 0 6px; 
-    margin-bottom: 25px;	
+    margin-bottom: 25px;
+	color:red;
 }
 
 h3 {
