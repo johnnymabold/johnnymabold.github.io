@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body style=background:#ffe6e6>
+  
 
+<head>
+<title>Voyant Visualization Project</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<h3>Johnny Mabold</h3>
+<img src="https://avatars2.githubusercontent.com/u/36042193?s=460&v=4"Johnny>
+  
+<h2>Professional Profile</h2>
+  
+<p>
+Wikipedia Sources
+<a href="https://en.wikipedia.org/wiki/Jane_Austen">Jane Austen</a>
+<a href="https://en.wikipedia.org/wiki/Northanger_Abbey">Northanger Abbey</a>
+
+<a href="https://en.wikipedia.org/wiki/Ann_Radcliffe">Anne Radcliffe</a>
+<a href="https://en.wikipedia.org/wiki/The_Mysteries_of_Udolpho">The Mysteries of Udolpho</a>
+
+<a href="https://en.wikipedia.org/wiki/Jane_Austen">Jane Austen</a>
+<a href="https://en.wikipedia.org/wiki/Jane_Austen">Jane Austen</a>
+<a href="https://en.wikipedia.org/wiki/Jane_Austen">Jane Austen</a>
+
+</p>
+  
+</html>
